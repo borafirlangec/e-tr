@@ -6,4 +6,4 @@ Bu proje ile, [Eurofly](http://www.stefankiss.sk/modules.php?name=eurofly&file=d
 Proje üzerinde çalışacaklar, aşağıdaki kurallara  uymak zorundadır:
 
 * Herkes kendi dalında (Branch) çalışacak ve değişiklikleri o dal üzerinde yapacak.
-* Dal üzerinde çalışmasını tamamlayan katılımcı Pool Request yaparak proje sahibini bu konuda bilgilendirecek.
+* Dal üzerinde çalışmasını tamamlayan katılımcı Pull Request yaparak proje sahibini bu konuda bilgilendirecek.
