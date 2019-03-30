@@ -1,15 +1,15 @@
-3. Aircrafts interface
- 
-This must be translated and recordet with some pc voice. E.g. with Jaws on the webpage 
- 
+3. Uçak arayüzü
+ 
+Bu, bazý bilgisayar sesleri ile çevrilmiþ ve kayýt edilmiþ olmalýdýr. Örneðin. Web sayfasýnda Jaws ile
+ 
 http://www.freedomscientific.com/Downloads/synthesizers
- 
-with free voices for Jaws you can find lot of voices for different languages. Hope you use Jaws and can use some of these voices. Or you can use addons to NVDA e.g.
-A: Acapela voices along with Infovox engine at
+ 
+Jaws için ücretsiz sesler ile farklý diller için çok fazla ses bulabilirsiniz. Umarým Jaws kullanýyorsunuz ve bu seslerden bazýlarýný kullanýyorsunuz. Veya NVDA'ya ekler kullanabilirsiniz, ör.
+A: Acapela, Infovox motoruyla birlikte ses veriyor
 http://www.acapela-nvda.com/download/
-or
-B: Real Speak solo voices along with Vocalizer Expressive driver at
+veya
+B: Vocalizer Expressive ile birlikte Real Speak solo sesleri
 http://vocalizer-nvda.com/downloads
-or other voices you might think of. You can as well use "what you hear" mode in your sound card setting (mmsys.cpl in command line) type all the phrases in text file and record your synthetizer that way.
+veya aklýnýza gelebilecek diðer sesler. Ses kartý ayarlarýnýzda (duyduðunuz ses modunu) modunu (komut satýrýnda mmsys.cpl) metin dosyasýndaki tüm cümleleri yazabilir ve sentetleyicinizi bu þekilde kaydedebilirsiniz.
 
-  In aircraft.txt there're over 40 names of mp3 files there and after each name the line with text which must be translated and recorded.  In sounds folder you find the sound effects which you can mix to several specific recordings. As an example, use the files from original english language pack.
+  Aircraft.txt dosyasýnda 40'tan fazla mp3 dosyasý var ve her isimden sonra çevrilmesi ve kaydedilmesi gereken metinli satýr var. Sesler klasöründe, belirli kayýtlara karýþtýrabileceðiniz ses efektlerini bulabilirsiniz. Örnek olarak, orijinal ingilizce paketindeki dosyalarý kullanýn.

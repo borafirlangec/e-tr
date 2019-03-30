@@ -1,172 +1,173 @@
-go to Eurofly\audio\aircraft\lang
-and
+Eurofly\audio\aircraft\lang
+ve
 Eurofly\audio\aircraft\lang\sos
+klasörlerine gidin
 
 
 audionavigoff.mp3
-audio navigation off
+Sesli Navigasyon Kapalý
 
 audionavigon.mp3
-audio navigation on
+Sesli Navigasyon Açýk
 
 autonavigoff.mp3
-automatic navigation off
+Otomatik Navigasyon Açýk
 
 autonavigon.mp3
-automatic navigation on
+Otomatik Navigasyon Açýk
 
 autopilotoff.mp3
-autopilot off
+Otopilot kapalý
 
 autopiloton.mp3
-autopilot on
+Otopilot Açýk
 
 backlightsoff.mp3
-back lights off
+Arka Iþýklar Kapalý
 
 backlightson.mp3
-back lights on
+Arka Iþýklar Açýk
 
 cloudin.mp3
-flying through clouds
+Bulutlarýn Arasýndasýnýz
 
 cloudout.mp3
-out of clouds
+Buluttan ayrýldýnýz
 
 doorsclosed.mp3
-closed
+Kapatýldý
 
 doorsopened.mp3
-openned
+Açýldý
 
 doorswarn.mp3
-attention the doors are openned
+Uyarý! Kapýlar Açýk
 
 down.mp3
-descent (mix with the up down.wav)
+Alçal (up down.wav ile birleþtir)
 
 frontlightsoff.mp3
-front lights off
+Ön Iþýklar Kapalý
 
 frontlightson.mp3
-front lights on
+Ön Iþýklar Açýk
 
 fuellow.mp3
-out of fuel (mix with fuellow.wav)
+Yakýt Yetersiz (fuellow.wav ile birleþtir)
 
 indoorlightsoff.mp3
-indoor lights off
+Kabin Iþýklarý Kapalý
 
 indoorlightson.mp3
-indoor lights on
+Kabin Iþýklarý Açýk
 
 landok.mp3
-landing successful 
+Ýniþ Baþarýlý
 
 missingoxigen.mp3
-Warning. Oxigen left.
+Uyarý! Oksijen Azalýyor
 
 missingpressure.mp3
-Warning. Pressure's too low.
+Uyarý! Basýnç Düþüyor
 
 missingtemperature.mp3
-Warning. Low temperature.
+Uyarý! Sýcaklýk Düþüyor
 
 off.mp3
-off
+Kapalý
 
 on.mp3
-on
+Açýk
 
 pcoff.mp3
-computer off
+Bilgisayar Kapalý
 
 pcon.mp3
-computer on
+Bilgisayar Açýk
 
 pressureoff.mp3
-pressure off
+Basýnç Kapalý
 
 pressureon.mp3
-pressure on
+Basýnç Açýk
 
 reqpermission.mp3
-require the landing permission
+Ýniþ Ýzni Gerekiyor
 
 setdestination.mp3
-set destination
+Yönünüzü Ayarlayýn
 
 setfreq.mp3
-set frequency
+Frekansýnýzý ayarlayýn
 
 statusmonitoroff.mp3
-status monitor off
+Durum Ekraný Kapalý
 
 statusmonitoron.mp3
-status monitor on
+Durum Ekraný Açýk
 
 stormradaroff.mp3
-storm radar off
+Fýrtýna Radarý Kapalý
 
 stormradaron.mp3
-storm radar on
+Fýrtýna Radarý Açýk
 
 stripwarn.mp3
-fasten your seat belt
+Koltuk Kemerinizi Takýn
 
 takeok.mp3
-take off successful
+Kalkýþ Baþarýlý
 
 tcasdown.mp3
-T-cas. Descent.
+T-cas: Alçal
 
 tcasoff.mp3
-t-cas off
+T-cas Kapalý
 
 tcason.mp3
-t-cas on
+T-cas Açýk
 
 tcasup.mp3
-T-cas. Rise.
+T-cas: Yüksel
 
 temperatureoff.mp3
-temperate off
+Sýcaklýk Kapalý
 
 temperatureon.mp3
-temperate on
+Sýcaklýk Açýk
 
 turbulence.mp3
-attention, you're entering the turbulence
+Uyarý! Türbülansa Girdiniz
 
 up.mp3
-rise (mix with up down.wav)
+Yüksel (up down.wav ile birleþtirin)
 
 ventilationoff.mp3
-ventilation off
+Havalandýrma Kapalý
 
 ventilationon.mp3
-ventilation on
+Havalandýrma Açýk
 
 warnspeed.mp3
-You have exceeded the maximum allowed speed.
+Ýzin verilen maksimum hýzý aþtýnýz.
 
 
 sos subfolder:
 
 sos1.mp3
-Smoke on the board. Land immediately.
+Kabinde Duman, Acil Ýniþ!
 
 sos2.mp3
-Fire on the board. Land immediately.
+Kabinde Yangýn, Acil Ýniþ!
 
 sos3.mp3
-Pressure control system failure. Land immediately.
+Basýnç kontrol sistemi arýzasý. Acil Ýniþ!
 
 sos4.mp3
-Ventilation failure. Land immediately.
+Havalandýrma arýzasý. Acil Ýniþ!
 
 sos5.mp3
-Fuel tank trouble. Land immediately.
+Yakýt deposu sorunu. Acil Ýniþ!
 
 sos6.mp3
-Engine failure. Land immediately.
+Motor arýzasý. Acil Ýniþ!
