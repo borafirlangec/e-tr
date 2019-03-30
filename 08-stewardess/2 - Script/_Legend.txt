@@ -1,0 +1,14 @@
+Now you're done with mixing all stewarde files. You can use our script to put the board microphone sound to the beginning and end of each file. So you won't need to open each file, put the sound to the beginning and end of each file and save each file. This script will add the board microphone sound automatically.
+
+Note: It's important having all stewarde files in:
+1. mp3 format
+2. 128 kbps
+3. 44,100 Hz
+4. Stereo.
+Parameters of stewarde files must be identical to open and close.mp3 file parameters. Otherwise the files will be deformated.
+
+A: First make backup of newly created stewarde folder.
+B: copy amicrophone.bat open.mp3 and close.mp3 to the stewarde folder.
+C: Click amicrophone.bat file which will do the board microphone sound automatically.
+D: Check out the result.
+Note: it will put the board microphone to cont1-6, sea, stew1-5, storm-after/before and turbulence-after/before files. You have to mix coffee1-9 and ques1-3 files.

@@ -1,0 +1,12 @@
+﻿0=Welcome to eurofly
+1=About Eurofly
+2=Tasks
+3=Free flying
+4=Manual walking through map
+5=Profiles
+6=Voices
+7=Options
+8=Test your speakers
+9=Add-ons
+10=About the program
+11=Exit

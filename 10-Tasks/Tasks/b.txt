@@ -1,0 +1,2 @@
+﻿Good day %XY, we're got a pretty easy flight this time. You have passengers waiting at the terminal. Fly them onboard the %LX from %L1 airport to %L2 airport. 
+Take care and have a safe flight.

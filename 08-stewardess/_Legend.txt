@@ -1,0 +1,9 @@
+8. Stewardess
+ 
+In the 8th step we have stewardess for translating and recording with human voice. Eurofly supports more voices, so you can also make more series of stewardess.
+  As an example use the stewardess from original english version. For using a new steward, you only need to create a new folder (the name of folder must contain a language prefix and name of the dispatcher). To this folder put the files with phrases like in english stewardess. 
+  In sounds folder you find the audio effects of preparing coffee or coming of steward. you can mix it to your recordings. If you can't make the editting and effect/mixing part, please record all at once in one track and send us. We'll do these parts for you.
+
+A: First off speak Stewardes - phrases.txt
+B: Then go to 1 - Sounds subfolder/_Legend.txt
+C: and then 2 - Script/_Legend.txt.

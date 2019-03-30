@@ -1,0 +1,86 @@
+go to Eurofly\audio\airport\ground
+Note1: In sentence rolltoway1 and rolltoway2 please record the sentences without a decreasing your voice because after this sentences the  runway number will be played. After this sentences please record all numbers of runways 1 2 3 a1 a2 a3 a4 a5 b1 b2 b3 b4 b5 with a little pause because we need to split the recording and have each number in separate file. The sentences rolltoway1 and rolltoway2 will be played together with numbers of runway so it is optimal record the sentences without decreasing the voice and numbers with the decreasing.
+
+Note2: SK737 should always be spelled as 7 3 7, not 7 hundred 30 7.
+Filename.mp3 - desc
+
+Note3: If you've already recorded a dispatcher you don't need to record again all numbers of runways 1 2 3 a1 a2 a3 a4 a5 b1 b2 b3 b4 b5. Simply take them from your voice in Eurofly\audio\airport\tower.
+
+It's necessary to record runway numbers if you record ground only as we need your voice saying these runway numbers. So don't forget to speak runway numbers too.
+
+
+Sentences
+
+welcome1.mp3
+SK737, this is ground. Welcome.
+
+welcome2.mp3
+SK737, greetings and welcome to our airport!
+
+norequest.mp3
+SK737, you currently don't have a flight plan filed. We cannot grant clearance.
+
+rolltogate11.mp3
+SK737, taxi to gate 1.
+
+rolltogate21.mp3
+SK737, taxi to gate 2.
+
+rolltogate31.mp3
+SK737, taxi to gate 3.
+
+rolltogate41.mp3
+SK737, taxi to gate 4.
+
+rolltogate12.mp3
+SK737, taxi to gate 1 and proceed with boarding.
+
+rolltogate22.mp3
+SK737, taxi to gate 2 and proceed with boarding.
+
+rolltogate32.mp3
+SK737, taxi to gate 3 and proceed with boarding.
+
+rolltogate42.mp3
+SK737, taxi to gate 4 and proceed with boarding.
+
+wait1.mp3
+SK737, wait in line.
+
+wait2.mp3
+SK737, please wait in line.
+
+stop.mp3
+SK737, hold short of the runway.
+
+rolltopark1.mp3
+SK737, taxi to parking.
+
+rolltopark2.mp3
+SK737, landing runway clear, taxi to parking.
+
+rolltopark3.mp3
+SK737, the runway is clear of traffic, brake and taxi to parking.
+
+rolltoway1.mp3
+SK737, taxi to runway
+
+rolltoway2.mp3
+SK737, please taxi to runway
+
+bye.mp3
+SK737, contact tower and request permission to take off. Have a safe flight.
+
+1
+2
+3
+A1
+A2
+A3
+A4
+A5
+B1
+B2
+B3
+B4
+B5

@@ -1,0 +1,8 @@
+﻿1=Create new Profile
+2=Remove Profile
+3=Jaws
+4=Winmonitor
+5=Sapi 5
+6=NVDA
+7=Eurofly is created by Stefan Kiss from Slovakia in 2016. Visit the webpage www.stefankiss.sk or contact by e-mail kissoft@stefankiss.sk
+8=Eurofly is a successful Slovak airline company that operates international flights within Europe as well as transcontinental flights worldwide. You have just become a pilot of this company and your job is to complete the tasks assigned to you by your superrior and safely carry passengers from different countries to their destination. You are about to become a pilot flying in your country. If you do well, you will be deployed for longer and more difficult routes and your rank will gradually increase. As we said, Eurofly is a successful company so we allow you to free flight around the world or explore the map. Good luck!

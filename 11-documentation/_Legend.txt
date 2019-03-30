@@ -1,0 +1,3 @@
+11. Documentation
+ 
+The last step is a translation of documentation. Here are 6 documents, so if you have a time and patience for translating, you can do it. If no, simply include please the original english documentation also with the licence file.

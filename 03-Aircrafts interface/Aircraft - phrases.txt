@@ -1,0 +1,172 @@
+go to Eurofly\audio\aircraft\lang
+and
+Eurofly\audio\aircraft\lang\sos
+
+
+audionavigoff.mp3
+audio navigation off
+
+audionavigon.mp3
+audio navigation on
+
+autonavigoff.mp3
+automatic navigation off
+
+autonavigon.mp3
+automatic navigation on
+
+autopilotoff.mp3
+autopilot off
+
+autopiloton.mp3
+autopilot on
+
+backlightsoff.mp3
+back lights off
+
+backlightson.mp3
+back lights on
+
+cloudin.mp3
+flying through clouds
+
+cloudout.mp3
+out of clouds
+
+doorsclosed.mp3
+closed
+
+doorsopened.mp3
+openned
+
+doorswarn.mp3
+attention the doors are openned
+
+down.mp3
+descent (mix with the up down.wav)
+
+frontlightsoff.mp3
+front lights off
+
+frontlightson.mp3
+front lights on
+
+fuellow.mp3
+out of fuel (mix with fuellow.wav)
+
+indoorlightsoff.mp3
+indoor lights off
+
+indoorlightson.mp3
+indoor lights on
+
+landok.mp3
+landing successful 
+
+missingoxigen.mp3
+Warning. Oxigen left.
+
+missingpressure.mp3
+Warning. Pressure's too low.
+
+missingtemperature.mp3
+Warning. Low temperature.
+
+off.mp3
+off
+
+on.mp3
+on
+
+pcoff.mp3
+computer off
+
+pcon.mp3
+computer on
+
+pressureoff.mp3
+pressure off
+
+pressureon.mp3
+pressure on
+
+reqpermission.mp3
+require the landing permission
+
+setdestination.mp3
+set destination
+
+setfreq.mp3
+set frequency
+
+statusmonitoroff.mp3
+status monitor off
+
+statusmonitoron.mp3
+status monitor on
+
+stormradaroff.mp3
+storm radar off
+
+stormradaron.mp3
+storm radar on
+
+stripwarn.mp3
+fasten your seat belt
+
+takeok.mp3
+take off successful
+
+tcasdown.mp3
+T-cas. Descent.
+
+tcasoff.mp3
+t-cas off
+
+tcason.mp3
+t-cas on
+
+tcasup.mp3
+T-cas. Rise.
+
+temperatureoff.mp3
+temperate off
+
+temperatureon.mp3
+temperate on
+
+turbulence.mp3
+attention, you're entering the turbulence
+
+up.mp3
+rise (mix with up down.wav)
+
+ventilationoff.mp3
+ventilation off
+
+ventilationon.mp3
+ventilation on
+
+warnspeed.mp3
+You have exceeded the maximum allowed speed.
+
+
+sos subfolder:
+
+sos1.mp3
+Smoke on the board. Land immediately.
+
+sos2.mp3
+Fire on the board. Land immediately.
+
+sos3.mp3
+Pressure control system failure. Land immediately.
+
+sos4.mp3
+Ventilation failure. Land immediately.
+
+sos5.mp3
+Fuel tank trouble. Land immediately.
+
+sos6.mp3
+Engine failure. Land immediately.

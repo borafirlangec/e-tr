@@ -1,0 +1,2 @@
+﻿%XY, Today We've got an easy task for you. Take this %LX and fly from %L1 airport to %L2. 
+Good luck. Your passengers are waiting at the gate.

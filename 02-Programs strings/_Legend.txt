@@ -1,0 +1,10 @@
+2. Programs strings
+go to Eurofly\strings\lang
+ 
+In strings folder we have several files with strings for the applications.  It is very easy to translate these files. You only need to open the file in some text editor and to each line write the text in your language. Each line must begin with the number of line and =. For example  
+1=airport
+you replace for example with
+1=aeroporto
+ 
+You can save new files as utf8 unicode format. 
+The locale.txt file must contain only code of your language.

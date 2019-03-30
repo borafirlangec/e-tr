@@ -1,0 +1,5 @@
+4. Menu 
+
+In the 2nd chapter you've translated menu1.txt and menu2.txt files. These files contain the recordings from application menu so after translating it is needet to record them with synthesis or with human voice. Some recordings are mixed to jingle.wav and the welcome phrase is mixed to intro1 and intro2 music files. Put these intro1 and intro2 files to the audio\background folder, and put other files to the audio\menu\lang subfolder.
+You can also create your own menu backgrounds. You just need music loop for background music and some music for welcoming in program. Currently we have 2 welcome and background musics. They are in the wlc1 a1 and wlc2 a2 files in audio\background subfolder. If you have your own music for backgrounding, put the loop in the audio\background subfolder and replace the name of file with a3.mp3. The file with welcoming in background\lang subfolder rename as wlc3.mp3. So you can continue with wlc4 a4 wlc5 a5 etc. 
+  The number of welcoming and background music is not limited and is selected randomly.

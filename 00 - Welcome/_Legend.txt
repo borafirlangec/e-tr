@@ -1,0 +1,31 @@
+Welcome to Eurofly translation guide.
+
+
+Considering the program size you might think Eurofly is very hard and complicated for it to be translated into new language. Well, we concede you'll have to bother with audio part and editting sound hich is quite tedious and protracted work. However, this translation tutorial will lead you through it all systematically and logically making the translation as simple as possible. You'll be sure you won't miss anything.
+
+
+As we've noted this translation guide is easy to work with as you simply:
+A: enter the folders from 01 to 11
+B: read Legend.txt
+C: Follow the steps described there.
+
+
+The translation guide is split into two parts:
+A: text part - strings, documents etc. meaning you can easily work with text editor. Are you bored during a long journey on bus train or without Internet connection? You can go ahead with translating several tens of strings a day.
+
+B: audio part - dispatcher/tower, stewarde, menu, aircraft, ground etc. meaning you need to have a sound program such as Audacity, Adobe Audition, Goldwave, Sound Forge and so forth. You should also have some experiences with editting sound and mixing.
+
+C: As far as this concerned we can help you edit the stuff adding some phone and noise effect into dispatchers/towers etc. but keep in mind if you speak not commonly-used language e.g. swahili we don't know the language. So we logically won't know where to split separate phrases into small mp3 files. Then we cannot help you edit it.
+
+D: For this audio part you should get hold of at least
+A: 3 males for dispatchers/towers and grounds (incl. you if you're a male)
+B: and at least 3 females for stewardes (incl. you when you're a female).
+
+
+They can record it on their own machine or at your home that depends on you. But one way or another it should be quality enough. You guarantee the sound quality as everybody from your country will know it was you recording the audio part so it's up to you how you want to be renowned in your community. :D
+
+
+So this translation guide is systematic, logically structured intuitive and lucid. So don't be worried about not handling it. You can get in touch with bunch of folks where one takes the text part while the other one takes the audio part. You can consult it together to have the unified terminology into your mother tongue.
+
+
+So good luck guys and let's roll to chapter 01!

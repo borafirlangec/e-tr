@@ -1,0 +1,3 @@
+5. Runways
+ 
+In the 5th step it is needet to translate and record the numbers of runways and gates on airport. It is very easy work, because the numbers don't need a translation :D In another language we used Google voice, so you can use this voice also for your language and create  recordings with names of runways. This recordings are mixed with beep sound.

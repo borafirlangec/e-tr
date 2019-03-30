@@ -1,0 +1,2 @@
+Now you're done with splitting files. It's time for mixing.
+So mix coffee1-9 and ques1-3 files with drinks and phrases described in Stewardes - phrases.txt file and then proceed to 2 - Script subfolder for further description.

@@ -1,0 +1,2 @@
+﻿Good day %XY, you've been  booked for one of our standard routes. You'll be starting from %L1, have 1 stop at %LM, and your destination is %L2. Use the %LX aircraft. 
+Good luck. Happy flying!

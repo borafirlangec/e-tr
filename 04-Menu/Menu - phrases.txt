@@ -1,0 +1,95 @@
+go to Eurofly\audio\menu\lang
+and
+Eurofly\audio\background\lang
+About 30 audio files from audio/background and audio/menu folder:
+
+
+wlc.mp3
+Welcome to eurofly
+
+a1.mp3
+About Eurofly.
+
+a2.mp3
+Tasks.
+
+a3.mp3
+Free flying.
+
+a4.mp3
+Manual walking through map.
+
+a5.mp3
+Profiles.
+
+a6.mp3
+Voices.
+
+a7.mp3
+Options
+
+a8.mp3
+Test your speakers.
+
+a9.mp3
+Addons.
+
+a10.mp3
+About the program.
+
+a11.mp3
+Exit.
+
+b1.mp3
+Creating new Profile.
+
+b2.mp3
+Removing Profile.
+
+b3.mp3
+Jaws.
+
+b4.mp3
+Winmonitor.
+
+b5.mp3
+SAPI 5.
+
+b6.mp3
+NVDA.
+
+b7.mp3
+Eurofly is created by Stefan Kiss from Slovakia in 2016. Visit the webpage www.stefankiss.sk or contact by e-mail kissoft@stefankiss.sk
+
+b8.mp3
+Eurofly is a successful Slovak airline company that operates international flights within Europe as well as transcontinental flights worldwide. You have just become a pilot of this company and your job is to complete the tasks assigned to you by your superrior and safely carry passengers from different countries to their destination. You are about to become a pilot flying in your country. If you do well, you will be deployed for longer and more difficult routes and your rank will gradually increase. As we said, Eurofly is a successful company so we allow you to free flight around the world or explore the map. Good luck!
+
+b9.mp3
+Task completed successfully. Congratulations. (mix the phrase in the jingle)
+
+b10.mp3
+Task completed. One entry up. (mix the phrase in the jingle)
+
+b11.mp3
+Task has not been completed.
+
+b12.mp3
+Type your profile name and press the enter key.
+
+b13.mp3
+This profile already exists.
+
+b14.mp3
+Profile has been created.
+
+b15.mp3
+Profile has been removed.
+
+b16.mp3
+Synthesizer has been set.
+
+b17.mp3
+The end. Press enter.
+
+b18.mp3
+Task completed. new certificate. (mix the phrase in the jingle)

@@ -1,0 +1,13 @@
+When you're done with splitting ground files you can use our script to put the keying up sound to the end of each file. So you won't need to open each file, put the sound to the end of each file and save each file. This script will add the keying up sound automatically.
+
+Note: It's important having all ground files in:
+1. mp3 format
+2. 128 kbps
+3. 44,100 Hz
+4. Stereo.
+Parameters of ground files must be identical to akey.mp3 file parameters. Otherwise the files will be deformated.
+
+A: First make backup of newly created ground folder.
+B: copy akey.bat and akey.mp3 to the ground folder.
+C: Click akey.bat file which will do the keying up sound automatically.
+D: Check out the result.

@@ -1,0 +1,3 @@
+﻿Good day, %XY. I hope you are feeling rested today.
+We've got you booked for 1 of our standard routes. It's a long one, but your a experienced pilot, so you are perfecr for the job.
+You will fly with a loaded %LX from airport %L1 to %LM and change passengers. Then, fly to %LD airport, change passengers once more, and finally fly to your destination, %L2 airport. Good luck, and have a safe flight.

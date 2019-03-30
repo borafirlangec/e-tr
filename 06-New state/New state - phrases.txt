@@ -1,0 +1,14 @@
+go to Eurofly\airport\state\lang
+
+
+identify2.mp3
+Identify yourself please
+
+identify3.mp3
+Identify yourself, or you will be shot down.
+
+newstate.mp3
+You have entered the airspace of a new state. Identify yourself
+
+newstatecontinue.mp3
+Identification confirmed. Welcome and continue in your present course

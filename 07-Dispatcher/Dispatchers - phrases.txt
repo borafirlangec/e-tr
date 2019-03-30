@@ -1,0 +1,115 @@
+go to Eurofly\audio\airport\tower
+
+note:
+SK737 should always be spelled as 7 3 7, not 7 hundred 30 7.
+
+
+numbers\a1...1b to 9a/9b.mp3
+Numbers from 1 to 9, A spoken with a higher inflection like on a comma, b with dropped inflection like on a period. Used to read transponder codes.
+
+Other numbers:
+1
+2
+3
+100
+500
+800
+1000
+1300
+1600
+2000
+2500
+3000
+4000
+5000
+6000
+7000
+8000
+8500
+9000
+9500
+10000
+10500
+11000
+A1
+a2
+A3
+A4
+A5
+B1
+B2
+B3
+B4
+B5
+
+Cancelled.mp3
+Request cancelled, continue your flight.
+
+Continue.mp3
+SK737, greetings. COntinue on your present course and altitude.
+
+Destinationcontinue.mp3
+SK737, this is your destination airport. Continue on your present course and altitude. Contact tower to request landing clearance at 2 kilometers from the airport.
+
+destinationfall.mp3
+SK737, this is your destination airport. Descend to 100, and contact tower to request landing clearance at 2 kilometers from the airport.
+
+fallto.mp3
+SK737, descend to... *this will be followed by one of the numbers, so there's no dropped inflection.
+
+Identify1.mp3
+you have entered airspace of a new airport. Squock... *followed by 4 numbers*
+
+identify2.mp3
+squock...
+
+Land1.mp3
+SK737, you are cleared to land. I repeat, you are cleared to land.
+
+Land2.mp3
+SK737, this is the control tower. We are experiencing heavy traffic and do not have any available runways. Please stand by.
+
+Land3.mp3
+SK737, you are not cleared to land due to bad weather. Please stand by.
+
+Land4.mp3
+SK737, our runway is full. Please stand by.
+
+Leaving.mp3
+SK737, you are leaving the airspace of our airport. We wish you a safe flight.
+
+newairportcontinue.mp3
+Identification confirmed.
+
+Nolanding2.mp3
+SK737, our airport is closed due to technical problems. Please select a different destination.
+
+Nolanding3.mp3
+SK737, due to bad weather our airport is closed. Please select a different airport.
+
+OK.mp3
+SK737, continue on your present course and altitude.
+
+Riseeast.mp3
+SK737, climb and continue heading east. (repeat for risenorth, risesouth and risewest)
+
+riseto.mp3
+SK737, climb and maintain...
+
+Riseto500.mp3
+SK737, climb to 500 and set heading towards your destination.
+
+tower0.mp3
+0SK737, you are cleared to take off using the runway in-front of you.
+
+tower1.mp3
+SK737, you are cleared to take off from runway... 
+
+Tower2.mp3
+SK737, all runways are currently in use. Please try again in a moment.
+
+Tower3.mp3
+SK737, we can not clear you for take off due to bad weather.
+
+Tower4.mp3
+SK737, our runway is currently in use. Please try again in a moment.

@@ -1,0 +1,17 @@
+7. Dispatcher
+
+
+In the 7th step we have a tower communication for translating and recording with human voice. Eurofly supports more voices, so you can make also more series of tower controlls. 
+  As an example use the towers from original english version. For using a new dispatcher, you only need to create a new folder (the name of folder must contain a language prefix and name of the dispatcher). To this folder put the files with phrases like in english towers.
+
+It is good to add some radio effects to your recordings in programs like Adobe Audition, Goldwave, Audacity or Sound Forge.
+1. If you can't make the editting and effect/noise part, please record all at once in one track and send us. We'll do these effects for you.
+2. But be sure not to split the files if you want to send us to do the effects for you. We'll send you back the files with effects and then you can split them into the scheme in "Grounds - phrases" files in this folder.
+A: first make the phone effect of the recording
+B: normalize the recording at maximum volume for it to be heard along with other various sounds in Eurofly itself.
+C: Generate the noise sound e.g. white noise sound, make the phone effect from the noise sound too for it to be the same like your phone speech as A point.
+E: And finally mix your phone speech (A point) into phone noise (C point) and split it and name it all.
+
+Note1: You can generate white sound e.g. in Adobe Audition menu/generate/Noise/click OK button/in the second window choose white noise/tab to "duration (seconds)" edit field and set 600click OK button"/
+Note2: Or you can use Audacity - menu/generate/Noise/"noise type" list set to white/tab to "duration" and type 0,1/hit OK button"
+Note3: Be sure to lower the noise volume for your speach to be distinctly heared over the noise sound and put the phone effect to the noise sound as well as your speech before mixing it together.

@@ -1,0 +1,14 @@
+﻿1=New version xx
+2=New version xx with filesize yy. is available. Do you want to download? 
+3=New data available
+4=Data version xx with file size yy is available. Do you want to download? 
+5=Update successful
+6=Update failed
+7=Message from server
+8=New Version
+9=Eurofly has been updated to version XY
+10=Update is in progress
+11=Please wait to update the XY files of Eurofly.
+12=The airports list has been updated to version XY
+13=The capitals list has been updated to version XY
+14=The points list has been updated to version XY

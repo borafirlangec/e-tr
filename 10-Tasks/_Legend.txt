@@ -1,0 +1,9 @@
+10. Tasks
+go to tasks\basic or generator\lang
+ 
+In the 10th step we need to translate files with tasks. All files are located in tasks folder and have .txt extensions. So you can open them, translate and save the changes. In each file you can find a %xy variable. It is a variable, which is in game replaced with name of pilot, so please don't change this variable. In tasks folder you'll find subfolders:
+Basic\
+Extras\
+Generator\
+
+Put 0-0.txt - 8-9.txt to basic\lang subfolder and a.txt - e.txt to generator\lang subfolder.

@@ -1,0 +1,3 @@
+6. New state
+ 
+In the 6th step we only need to record 4 phrases with some human voice. They are played when the airplane comes to new state. All 4 recordings must be placed in audio/airport/state/lang folder.

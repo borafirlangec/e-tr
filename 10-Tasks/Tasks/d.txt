@@ -1,0 +1,2 @@
+﻿Greetings %XY. We need you to take a loaded %LX from %L1 to %L2, with a stop at %LM airport on the way there.
+Thank you and fly safe.

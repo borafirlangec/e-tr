@@ -1,0 +1,102 @@
+go to Eurofly\aircraft\stewardes
+Please record three tracks:
+1st track: Coffee1-9
+2nd track: ques1-3
+3rd track: cont1-6, sea, stew1-5, storm-after/before and turbulence-after/before.
+Note1: The sound effect will be put to the 3rd track only. (Adobe Audition-menu/effects/Delay effects/Delay/2x tab key to the list/here hit end key and 1x arrow up to Vocal presence)
+Note2: If you don't have Adobe Audition and don't feel like installing it contact Stefan Kiss and we'll put the sound effect to it and send you back the file to be split.
+Note3: After making effects split all files to the scheme below.
+
+
+*1st track:
+Coffee1-9.mp3
+This will take a moment...
+This is always followed by "here you are, your *insert name of drink here*"
+
+coffee1.mp3
+White coffee.
+
+coffee2.mp3
+Black coffee.
+
+coffee3.mp3
+coffee with chocolate milk.
+
+coffee4.mp3
+Hot chocolate.
+
+coffee5.mp3
+Capuccino.
+
+coffee6.mp3
+espresso.
+
+coffee7.mp3
+Caffee Machiato. (pronounced cafe makyato)
+
+coffee8.mp3
+moccacino. (pronounced mokachino)
+
+coffee9.mp3
+Cola/Coke.
+
+
+*2nd track:
+ques1.mp3
+What would you like?
+
+ques2.mp3
+Can I get you anything?
+
+ques3.mp3
+What do you need?
+
+
+*3rd track:
+cont1.mp3
+Ladies and gentlemen, I would like to inform you that we have crossed into African airspace. We wish you a pleasant flight!
+
+cont2.mp3
+Ladies and gentlemen, we are now flying over Asia. We wish you a pleasant flight!
+
+cont3.mp3
+Ladies and gentlemen, I would like to inform you that we have crossed into European airspace. We wish you a pleasant flight!
+
+Cont4.mp3
+Ladies and gentlemen, I would like to inform you that spread out below us is the American continent. I would also like to remind you that the Eurofly staff is always at your disposal if you need anything.
+
+Cont5.mp3
+Note: simply copy the same message from Cont4.mp3
+
+Cont6.mp3
+Ladies and gentlemen, I hope you're enjoying the flight. We are now flying over the Australian continent. I would also like to remind you that our staff is at your disposal.
+
+sea.mp3
+Ladies and gentlemen, I hope you are comfortable and happy with our services. We are now flying over the sea. The weather outside is very nice so you can enjoy a nice view of the blue waters.
+
+stew1.mp3
+Ladies and gentlemen, welcome aboard a Eurofly aircraft. We will be taking off in a few minutes. Please fascin your seatbelts. Thank you.
+
+stew2.mp3
+Ladies and gentlemen, we have successfully taken off and you may now unfascin your seatbelts. During the flight our staff will be regularly walking through the isles, so please get their attention if you would like to ask a question or need anything. We wish you a pleasant flight!
+
+stew3.mp3
+Ladies and gentlemen, we are aproaching our destination airport and will be landing shortly. Please fascin your seatbelts, set your seats to an upright position, and close the tables in-front of you. Thank you.
+
+stew4.mp3
+Ladies and gentlemen, we have landed at our destination. Please remain in your seat until the aircraft has come to a complete stop. We hope you were satisfied with our services, and hope you will fly with us again. Have a nice day!
+
+stew5.mp3
+Ladies and gentlemen, with regret I would like to inform you that our destination has not given us clearance to land, and we are now flying to the closest open airport. We appologise for the inconvenience!
+
+storm-after.mp3
+Ladies and gentlemen, we have passed the storm. You can now relax and enjoy the rest of the flight!
+
+storm-before.mp3
+Ladies and gentlemen, the captain has informed us we are entering a stormy area. For your safety we ask you to remain in your seat and fascen your seatbelts. Thank you.
+
+turbulence-after.mp3
+Ladies and gentlemen, we are now leaving the area of increased turbulence, and you may now unfascen your seatbelts. Thank you.
+
+turbulence-before.mp3
+Ladies and gentlemen, we may start to experience increased turbulence. For your safety please fascen your seatbelts. Thank you.

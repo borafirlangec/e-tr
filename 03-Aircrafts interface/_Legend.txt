@@ -1,0 +1,15 @@
+3. Aircrafts interface
+ 
+This must be translated and recordet with some pc voice. E.g. with Jaws on the webpage 
+ 
+http://www.freedomscientific.com/Downloads/synthesizers
+ 
+with free voices for Jaws you can find lot of voices for different languages. Hope you use Jaws and can use some of these voices. Or you can use addons to NVDA e.g.
+A: Acapela voices along with Infovox engine at
+http://www.acapela-nvda.com/download/
+or
+B: Real Speak solo voices along with Vocalizer Expressive driver at
+http://vocalizer-nvda.com/downloads
+or other voices you might think of. You can as well use "what you hear" mode in your sound card setting (mmsys.cpl in command line) type all the phrases in text file and record your synthetizer that way.
+
+  In aircraft.txt there're over 40 names of mp3 files there and after each name the line with text which must be translated and recorded.  In sounds folder you find the sound effects which you can mix to several specific recordings. As an example, use the files from original english language pack.
