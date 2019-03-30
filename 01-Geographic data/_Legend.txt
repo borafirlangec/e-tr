@@ -1,19 +1,19 @@
-1. Geographics data
-go to
-Eurofly\data\Geonames
-and
-Eurofly\data\Openstreetmap
+1. Coðrafya verileri
+Eurofly \ Data \ Geonames
+ve
+Eurofly \ Data \ OpenstreetMap
+klasörlerine gidin
+ 
 
- 
-In data folder we have some files with geographics data. Open the file, read the name of object on the line and replace it with the name in your language.
- 
-A: Geonames subfolder, open just the .def files - 4 files:
-Continents.def - continents and seas in translated language (delete original string replacing it with translated string)
+Veri klasöründe, coðrafi veri içeren bazý dosyalarýmýz var. Dosyayý açýn, satýrdaki nesnenin adýný okuyun ve yerine kendi dilinizde bir ad verin.
+ 
+A: Geonames alt klasörü, sadece .def dosyalarýný açýn - 4 dosya:
+Continents.def - kýtalar ve denizler (Çeviriyi yaptýktan sonra eski metni silmeyi unutmayýn)
 
-Groups.def - abbreviations for some states (delete original string replacing it with translated string)
+Groups.def - bazý eyaletlerin kýsaltmalarý (Çeviriyi yaptýktan sonra eski metni silmeyi unutmayýn)
 
-Islands.def - islands in translated language (delete original string replacing it with translated string)
+Islands.def - çevrilmiþ dildeki adalar (Çeviriyi yaptýktan sonra eski metni silmeyi unutmayýn)
 
-States.def - states in translated languages (delete original string replacing it with translated string)
+States.def - çevrilmiþ dilleri belirtir (Çeviriyi yaptýktan sonra eski metni silmeyi unutmayýn)
 
-B: Openstreetmap subfolder, the same translating mechanism just like Geonames before - 4 files.
+B: Openstreetmap alt klasörü, Geonames gibi ayný çeviri mekanizmasý ile çalýþýr - 4 dosya.
