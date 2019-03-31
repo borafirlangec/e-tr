@@ -1,7 +1,7 @@
 ﻿0=Uyarı
 1=Yeni eklentiler kullanılabilir. Görüntülemek için Ana Menü'deki Eklentiler bölümünü ziyaret edin.
-2=Ekleentiler
-3=İntir
+2=Eklentiler
+3=İndir
 4=Kaldır
 5=Bağışta Bulun
 6=İndirme merkezini aç
